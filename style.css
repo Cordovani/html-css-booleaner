@@ -28,10 +28,10 @@ header {
 
 .main-img {
     width: 49%;
-    height: 350px;
+    height: 550px;
 }
 
-#evidenziato {
+.evidenziato {
     background-color:yellow ;
 }
 
@@ -48,4 +48,18 @@ table {
 
 .alternate-row {
     background-color: lightblue;
+}
+
+
+.suggerimenti {
+    width: 200px;
+    height: 200px;
+}
+
+#monitor {
+    background-image: url(img\monitor.jpg);
+}
+
+#graph {
+    background-image: url(img\graph.jpg);
 }
