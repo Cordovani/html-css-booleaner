@@ -13,3 +13,39 @@ header {
 #logo {
     width: 25%;
 }
+
+.sottotitolo {
+    font-size: 12px;
+}
+
+.annotazione {
+    font-size: 8px;
+}
+
+#booleaner{
+    color: lightblue;
+}
+
+.main-img {
+    width: 49%;
+    height: 350px;
+}
+
+#evidenziato {
+    background-color:yellow ;
+}
+
+.theader {
+    background-color: rgb(34, 155, 195);
+    color: white;
+    font-weight: bolder;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.alternate-row {
+    background-color: lightblue;
+}
